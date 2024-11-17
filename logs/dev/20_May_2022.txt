@@ -1,0 +1,325 @@
+
+--------------------Acitivity Logs for Fri 20 May, 2022 Used in dev Environment-------------------------------
+
+=> Log File created for Fri 20 May, 2022 which is start at 02:05 PM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:51 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : gauravsinghigc@gmail.com and Password : 9810
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:51 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : navix365@gmail.com and Password : 9810
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:55 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : gauravsinghigc@gmail.com and Password : Gsi@9810
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:04 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : navix365@gmail.com and Password : 9810
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:46 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : navix365@gmail.com and Password : Navix@1800
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:57 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : navix365@gmail.com and Password : 9810
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:00 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> SERVICE_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:24 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> http://192.168.1.10/projects/mddevelop is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:39 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : navix365@gmail.com and Password : 9810
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:50 pm',
+    'IpAddress' => '192.168.1.14',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    APP_VERSION-> 1.1 is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:55 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> http://192.168.1.10/projects/mddevelop is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:42 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> SERVICE_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> navix365@gmail.com
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 20 May, 2022 02:05:11 pm',
+    'IpAddress' => '192.168.1.14',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36'
+ ]
+

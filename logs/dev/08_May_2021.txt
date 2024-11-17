@@ -1,0 +1,125 @@
+
+--------------------Acitivity Logs for Sat 08 May, 2021 Used in dev Environment-------------------------------
+
+=> Log File created for Sat 08 May, 2021 which is start at 02:05 PM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Sat 08 May, 2021 02:05:19 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 02:05 PM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Sat 08 May, 2021 02:05:19 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 03:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 08 May, 2021 03:05:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 05:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 08 May, 2021 05:05:49 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 08 May, 2021 06:05:48 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+

@@ -1,0 +1,125 @@
+
+--------------------Acitivity Logs for Tue 08 Aug, 2023 Used in dev Environment-------------------------------
+
+=> Log File created for Tue 08 Aug, 2023 which is start at 11:08 AM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Tue 08 Aug, 2023 11:08:51 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19045 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19045 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+ ]
+
+
+----------------------- Entry At 11:08 AM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> PASSWORD_RECOVER_REQUEST --> {
+    USER_FOUND -> EmailId : gauravsinghigc@gmail.com
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Tue 08 Aug, 2023 11:08:51 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19045 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19045 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+ ]
+
+
+----------------------- Entry At 12:08 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 08 Aug, 2023 12:08:44 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19045 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19045 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+ ]
+
+
+----------------------- Entry At 12:08 PM ---------------------------------
+
+=> NEW_SERVICES_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 08 Aug, 2023 12:08:08 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19045 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19045 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+ ]
+
+
+----------------------- Entry At 12:08 PM ---------------------------------
+
+=> USER_LOGOUT --> {
+    Logout Successfully!
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 08 Aug, 2023 12:08:34 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19045 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19045 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+ ]
+
